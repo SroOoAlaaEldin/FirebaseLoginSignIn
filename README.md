@@ -6,6 +6,7 @@ A new Flutter project.
 
 Login And SignUp With email and Password Or Email Address
 ![login_with_email](https://github.com/user-attachments/assets/47d192aa-999d-400a-b4cd-f5ad4ed88c6c)
+![forget_passwrd](https://github.com/user-attachments/assets/721a0d6f-a140-496b-952e-08e9736273dd)
 
 
 A few resources to get you started if this is your first Flutter project:
