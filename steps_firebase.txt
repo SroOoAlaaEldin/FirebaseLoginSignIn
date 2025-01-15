@@ -1,0 +1,5 @@
+ 1- npm install -g firebase_tools
+ 2- firebase login
+ 3- dart pub global active flutter_cli
+ 4-flutterfire  configure
+ 5- firebase init 

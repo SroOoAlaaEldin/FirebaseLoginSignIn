@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "813481361331",
+    "project_id": "loginsignin-d5118",
+    "storage_bucket": "loginsignin-d5118.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813481361331:android:758606c9802dc5d27e95c6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813481361331-ahlif7mv0i1tk9f7voata38h8r317103.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuQ2vobSKV-9m6LKVmNWoJJMUvYkSH3M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813481361331-ahlif7mv0i1tk9f7voata38h8r317103.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
